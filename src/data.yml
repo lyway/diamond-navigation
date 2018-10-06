@@ -1,4 +1,4 @@
-title: "呆萌的猿"
+title: "含风新导航极简版"
 beian: " 浙ICP备17058293号-1	"
 gaBeian: "浙公网安备 33010602008898号"
 gaBeianHref: "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010602008898"
@@ -10,7 +10,7 @@ boxes:
   - title: SegmentFault
     logo: '#segmentfault-icon'
     href: https://segmentfault.com/
-    desc: SegmentFault ( www.sf.gg ) 是中国领先的开发者社区。
+    desc: SegmentFault ( www.hf000.com ) 是中国领先的开发者社区。
           我们希望为中文开发者提供一个纯粹、高质的技术交流平台，
           与开发者一起学习、交流与成长，创造属于开发者的时代！
   - logo: '#github'
